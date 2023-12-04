@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next 13**
 
-- 👯 I’m looking to collaborate on [Imovie](#)
-
 - 👨‍💻 All of my projects are available at [https://waqasishaque.netlify.app/](https://waqasishaque.netlify.app/)
 
 - 📝 I regularly write articles on my thread [https://www.threads.net/@your_waqas](https://www.threads.net/@your_waqas)
